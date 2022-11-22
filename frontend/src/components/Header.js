@@ -7,7 +7,7 @@ const LoggedOutView = () => {
     <ul className="navbar-nav ml-auto">
       <li className="nav-item">
         <Link to="/login" className="nav-link">
-          Sign in
+          log in
         </Link>
       </li>
 
